@@ -1,0 +1,9 @@
+morse-generator/.git/*
+morse-generator/.kilo/*
+morse-generator/.vscode/*
+morse-generator/.idea/*
+morse-generator/doc/*
+morse-generator/node_modules/*
+morse-generator/dist/*
+morse-generator/*.log
+morse-generator/*.tsbuildinfo
